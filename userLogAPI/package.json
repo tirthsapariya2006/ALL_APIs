@@ -1,0 +1,26 @@
+{
+  "name": "apis_by_me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tirthsapariya2006/ALL_APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tirthsapariya2006/ALL_APIs/issues"
+  },
+  "homepage": "https://github.com/tirthsapariya2006/ALL_APIs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1",
+    "nodemon": "^3.1.10"
+  }
+}
